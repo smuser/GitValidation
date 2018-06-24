@@ -15,7 +15,7 @@ public class Validate {
 		}
 		else
 			System.out.println("Number is odd number");
-		
+		System.out.println("Added new line");
 	}                                                                                                                                                                                                                                                                                                                                                                                                                                       
 
 }
